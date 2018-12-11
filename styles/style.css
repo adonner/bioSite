@@ -13,8 +13,8 @@ header {
 	font-family: 'Oswald', Verdana, Arial, sans-serif;
 	font-weight: 300;
 	font-size: 1.25em;
-	border-bottom: 1px solid rgb(10,34,57); /* top and bottom boarder only */
-	border-top: 1px solid rgb(10,34,57);
+	border-bottom: 1.5px solid rgb(10,34,57); /* top and bottom boarder only */
+	border-top: 1.5px solid rgb(10,34,57);
 	padding-left: .25em;
 	padding-right: .25em;
 }
@@ -181,6 +181,6 @@ footer {
 	font-family: 'Oswald', Verdana, Arial, sans-serif;
 	font-weight: 300;
 	font-size: 1.25em;
-	border-bottom: 1px solid rgb(10,34,57); /* top and bottom boarder only */
-	border-top: 1px solid rgb(10,34,57);
+	border-bottom: 1.5px solid rgb(10,34,57); /* top and bottom boarder only */
+	border-top: 1.5px solid rgb(10,34,57);
 }
