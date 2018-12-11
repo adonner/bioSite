@@ -117,10 +117,13 @@ figure.familymarket{
 
 figure.airplane {
 	float: left;
+	margin-left: 0px;
 	text-align: center;
 }
 
 .quote {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
 	clear: both;
 	text-align: center;
 }
