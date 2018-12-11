@@ -29,17 +29,17 @@ h1 {
 
 
 p {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
-	line-height: 1.25;
+	line-height: 1.25em;
 	color: #2D2A32;
 	column-count: 1; /* ensures no text flows under images */
 }
 
 figure {
-	font-family: 'Open Sans', sans-serif;;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
-	line-height: 1.5;
+	line-height: 1;
 	font-size: .8em;
 	color: #2D2A32;
 }
@@ -50,6 +50,11 @@ hr {
 	background-color: #0A2239;
 }
 
+a {
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none; /* removes underline from links */
+	color: #B24C63;
+}
 
 .head { /* evenly spaces links across header */
 	display: flex;
@@ -112,7 +117,6 @@ figure.familymarket{
 
 figure.airplane {
 	float: left;
-	margin-left: 0px;
 	text-align: center;
 }
 
@@ -153,10 +157,6 @@ address {
 	padding-bottom: .5em; /*adds .5em space below address*/
 }
 
-a {
-	text-decoration: none; /* removes underline from links */
-	color: #B24C63;
-}
 
 figure.demo {
 	float: left;
