@@ -168,6 +168,11 @@ figure.demo {
 	padding-bottom: 1em; /* adds padding between back to top link and footer */
 }
 
+.perten
+{
+	text-align: center;
+}
+
 footer {
 	clear: both;
 	font-family: 'Oswald', Verdana, Arial, sans-serif;
