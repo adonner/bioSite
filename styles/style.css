@@ -3,8 +3,8 @@ html {
 }
 
 body{
-	margin:0 auto; /* Centered Content */
-    width:960px; /*sets width of content*/
+	margin: 0 auto; /* Centered Content */
+    width: 960px; /*sets width of content*/
     background-color: #FFFFFF;
 	font-size: 1.25em; /*Major Thirds Type Scale*/
 }
@@ -138,11 +138,6 @@ figure.ptosign {
 	text-align: center;
 }
 
-/*img.swissflag{
-	float: right;
-	margin-right: 10px;
-	margin-bottom: 20px;
-}*/
 
 figure.flag {
 	float: right;
